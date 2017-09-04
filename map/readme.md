@@ -3,7 +3,7 @@
  - It is my personal opinion where I visited
  - Maybe you can find useful maps and tips here
 
-### Pari
+### Paris
  - 몽마르뜨, 팔찌 강매  [피하는법](https://github.com/jeonghoonkang/trip/blob/master/map/%EB%AA%BD%EB%A7%88%EB%A5%B4%EB%9C%A8.png)
  
 ### Singapore
