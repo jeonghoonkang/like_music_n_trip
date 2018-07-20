@@ -2,7 +2,7 @@
 ### in San Francisco
 - Blue Bottel Coffee
   - https://bluebottlecoffee.com/cafes/mint-plaza
-  - New Olreans Latte !
+  - New Olreans Coffee !
 - AT&T Park
   - Baseball !
   - You can meet players in a very near distance, if you come there 1~2 hours before game start
