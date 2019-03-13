@@ -19,7 +19,7 @@
   - 대한항공 광고 SF편에도 나왔던 곳임. 나도 가면 매번 가는곳.
   - http://thebuenavista.com/index1.html
 
-- 일반 관광지는 아니지만, 내가 아주 좋아하는 곳. Pacific Heights 부자 동네.
+- 일반 관광지는 아니지만, 아주 좋은 곳. Pacific Heights 부자 동네.
   - 이 지역 아파트 들에서는 금문교가 내려다 보임. 지상에서는 잘 안보임. 아래 위치에 가면. 유일하게 이 지역에서 금문교를 볼 수 있음
   - 위치: 퍼시픽 하이츠. 샌프란. 주소 Broadway & Fillmore 에서. 언덕아랫쪽으로 조금 내려가면 됨. 아파트 사이로 금문교 보임
   - https://www.google.co.kr/maps/place/%EB%AF%B8%EA%B5%AD+94123+%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84+%EC%83%8C%ED%94%84%EB%9E%80%EC%8B%9C%EC%8A%A4%EC%BD%94/@37.7942861,-122.4349614,17z/data=!3m1!4b1!4m2!3m1!1s0x808580c5645885e5:0x33b04e60449e0840?hl=ko
