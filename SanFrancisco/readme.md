@@ -21,6 +21,7 @@
   - 여기서 반드시 아이리쉬 커피를 시켜서 마실것. 술 90% 임.
   - 대한항공 광고 SF편에도 나왔던 곳임. 나도 가면 매번 가는곳.
   - http://thebuenavista.com/index1.html
+  - [부에나 비스타 블로그 자료](https://m.blog.naver.com/PostView.nhn?blogId=csn324&logNo=220823435002&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 - 일반 관광지는 아니지만, 아주 좋은 곳. Pacific Heights 부자 동네.
   - 이 지역 아파트 에서는 금문교가 내려다 보임. 지상에서는 잘 안보임. 아래 위치에 가면. 유일하게 이 지역에서 금문교를 볼 수 있음
