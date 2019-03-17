@@ -14,8 +14,8 @@
   - (필독, 조심) 케이블카 는 Powell 역에서 Hyde방향꺼 타야함. 두가지 노선이 있어서. Powell에서 Mason으로 타면 안됨. Powell에서 차례가 되었는데 타기 싫으면 옆으로 물러나 있으면 됨. 케이블카가 hyde 방명, mason 방면이 한번씩 번갈아서 출발함 
   - [유투브 동영상1](https://youtu.be/ao51VRLwkNY?t=7)
   - [유투브 동영상2](https://youtu.be/4FaUWyKKdIw)
-  - 케이블카 타는곳:https://www.google.co.kr/maps/place/Powell+St+%26+Market+St/@37.7846962,-122.4081431,18z/data=!3m1!5s0x808580860640d93b:0x571df460b0249448!4m5!1m2!2m1!1spowell+station+san+francisco!3m1!1s0x0:0x41cf452613414313?hl=ko 
-  - 케이블카 내리는곳:https://www.google.co.kr/maps/place/The+Buena+Vista+Cafe/@37.8065524,-122.4206181,18z/data=!3m1!5s0x808580860640d93b:0x571df460b0249448!4m5!1m2!2m1!1spowell+station+san+francisco!3m1!1s0x0:0x464d24e1dd87105d?hl=ko
+  - 케이블카 타는곳 [지도위치](https://www.google.co.kr/maps/place/Powell+St+%26+Market+St/@37.7846962,-122.4081431,18z/data=!3m1!5s0x808580860640d93b:0x571df460b0249448!4m5!1m2!2m1!1spowell+station+san+francisco!3m1!1s0x0:0x41cf452613414313?hl=ko)
+  - 케이블카 내리는곳 [지도위치](https://www.google.co.kr/maps/place/The+Buena+Vista+Cafe/@37.8065524,-122.4206181,18z/data=!3m1!5s0x808580860640d93b:0x571df460b0249448!4m5!1m2!2m1!1spowell+station+san+francisco!3m1!1s0x0:0x464d24e1dd87105d?hl=ko)
 
 - 케이블카 Hyde에 내려서 보면..  바로 코너에 까페있음. 부에나비스타 까페가 있음
   - 여기서 반드시 아이리쉬 커피를 시켜서 마실것. 술 90% 임.
