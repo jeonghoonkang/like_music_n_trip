@@ -13,6 +13,7 @@
 - 매일 아침 5:30부터 탈수 있는 케이블카. 시내. 반드시 사람이 별로 없을때. 새벽에... 시내에서 바다(Fisherman's Wharf) 쪽으로 타야함. 바닷가 거의 다 가서. 마지막 최고 높은 언덕에서 (롬바르드, 크룩키스트 로드) 바다쪽으로 내려갈때.. 바다방향, 언덕 아래방향 케이블케 제일 앞쪽애 서서 바다를 바라보면 바다와 알카트라즈가 한손에 잡힐듯 장관임.
   - (필독, 조심) 케이블카 는 Powell 역에서 Hyde방향꺼 타야함. 두가지 노선이 있어서. Powell에서 Mason으로 타면 안됨. Powell에서 차례가 되었는데 타기 싫으면 옆으로 물러나 있으면 됨. 케이블카가 hyde 방명, mason 방면이 한번씩 번갈아서 출발함 
   - [유투브 동영상](https://youtu.be/ao51VRLwkNY?t=7)
+  - [유투브 동영상](https://youtu.be/4FaUWyKKdIw)
   - 케이블카 타는곳:https://www.google.co.kr/maps/place/Powell+St+%26+Market+St/@37.7846962,-122.4081431,18z/data=!3m1!5s0x808580860640d93b:0x571df460b0249448!4m5!1m2!2m1!1spowell+station+san+francisco!3m1!1s0x0:0x41cf452613414313?hl=ko 
   - 케이블카 내리는곳:https://www.google.co.kr/maps/place/The+Buena+Vista+Cafe/@37.8065524,-122.4206181,18z/data=!3m1!5s0x808580860640d93b:0x571df460b0249448!4m5!1m2!2m1!1spowell+station+san+francisco!3m1!1s0x0:0x464d24e1dd87105d?hl=ko
 
