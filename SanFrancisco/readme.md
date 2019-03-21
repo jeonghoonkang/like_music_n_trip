@@ -23,6 +23,14 @@
   - http://thebuenavista.com/index1.html
   - [부에나 비스타 블로그 자료](https://m.blog.naver.com/PostView.nhn?blogId=csn324&logNo=220823435002&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
+- Grey Line 시티투어 버스
+  - 4시간 정도, 샌프란시스코 시내를 돌아봄. 가끔 내려서 5분정도 정차했다가 감
+    - Fishermann's Whart, Twin Peaks, Golden Gate Bridge & Park, Fine Art Center, 시청/오페라하우스, Cliff House, Minssion Dolores 등 주요 지점을 가장 효율적으로 구경할 수 있음
+  - 근래는 2년전에 다른 사람들이 타봤는데, 만족도 높음
+  - 호텔 프론트 데스크에서 예약 하면됨.
+  - 예전엔 그레이 라인만 한국어 서비스가 있었음. 하루에 4회만... 한국어 서비스
+  - 한국어 서비스로 다니는 것과 아닌것은 매우 큰 차이가 있음, 대부분 사람들의 의견
+
 - 일반 관광지는 아니지만, 아주 좋은 곳. Pacific Heights 부자 동네.
   - 이 지역 아파트 에서는 금문교가 내려다 보임. 지상에서는 잘 안보임. 아래 위치에 가면. 유일하게 이 지역에서 금문교를 볼 수 있음
   - 위치: 퍼시픽 하이츠. 샌프란. 주소 Broadway & Fillmore 에서. 언덕아랫쪽으로 조금 내려가면 됨. 아파트 사이로 금문교 보임
