@@ -23,6 +23,17 @@
   - http://thebuenavista.com/index1.html
   - [부에나 비스타 블로그 자료](https://m.blog.naver.com/PostView.nhn?blogId=csn324&logNo=220823435002&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
+- 블루바틀 커피
+  - 시내에 몇개가 있지만, 샌프란시스코 크로니클 앞에 있는 매장이 줄서서 기다리기에 좀 더 적합하다
+  - 만약 호텔에서 멀지 않다면, 아침식사를 위해 아침 일찍 가봐도 좋고. 여유가 된다면 커피 한잔 마시면 아주 맛있는 커피 맛을 볼 수 있다
+  - 위치 : https://goo.gl/maps/cC64ngJKmj42
+  - 메뉴
+    - 그냥 커피 먹어야 함 (드립커피) 아메리카노 먹으면 안됨. 아이스 아메리카노도 아님
+    - 원두가 기본적인 블렌드가 있고, 그날의 싱글 오리진이 있는데 레코멘데이션 해달라고 하거나, 아무거나 달라고 하면 됨
+    - 추가적으로 뉴올리언스 커피 (with milk)는 아이스 라떼 같은 맛인데, 미국 뉴올리언스 스타일의 콜드 브루임
+    - 개인적으로는 착륙하면 일단 먼저 블루 바틀에 들려서 한번에 2개 시켜서 먹음
+    - 카운터 계산후 Pos를 돌려서 서명, 팁 해달라고 하는데, 팁을 줘도 되고 안줘도 됨. 요즘은 주는 분위기 인것 같음.
+  
 - Grey Line 시티투어 버스
   - 4시간 정도, 샌프란시스코 시내를 돌아봄. 가끔 내려서 5분정도 정차했다가 감
     - Fishermann's Whart, Twin Peaks, Golden Gate Bridge & Park, Fine Art Center, 시청/오페라하우스, Cliff House, Minssion Dolores 등 주요 지점을 가장 효율적으로 구경할 수 있음
