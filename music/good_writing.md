@@ -1,4 +1,4 @@
 ## Jazz 
 - http://www.jazzspace.net
 ## Just Rock 
-- http://www.izm.
+- http://www.izm.co.kr 
