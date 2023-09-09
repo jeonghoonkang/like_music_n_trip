@@ -5,10 +5,10 @@
 
 
 ## 쇼핑
-- [도쿄 쇼핑 정보 링크](shopping_tokyo.md)
+- [도쿄 쇼핑 정보 링크-클릭 이동](shopping_tokyo.md)
 
 ## 음식
-- [도쿄 음식 정보 링크](eat_in_tokyo.md)
+- [도쿄 음식 정보 링크-클릭 이동](eat_in_tokyo.md)
 
 ## 교통수단
 - 도쿄 지하철 + 광역 지하철
