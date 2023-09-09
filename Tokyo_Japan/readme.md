@@ -1,7 +1,8 @@
 # Landing Haneda
 - 하네다 공항은 지하철로 긴자까지 30~40분이면 갈 수 있다
 - 도착하자마자 여행이 시작된다. 한국 김포공항 보다도 편한 공항 접근성은 최고 수준임
-  - ![Uploading image.png…]()
+  - <img width="629" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/43032cea-6428-43d6-9d48-2b7dc7e0c2c5">
+
 
 ## 쇼핑
 - [도쿄 쇼핑 정보 링크](shopping_tokyo.md)
