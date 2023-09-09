@@ -6,27 +6,33 @@
 
 <img width="228" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/f6305a2d-ca4e-4459-aff0-0171a62e39b2">
 
-    
+ 
 ## 커피
 ### 도토루
 - 스타벅스 보다 많음
 - 아침 일찍 출근전 식사하는 사람도 많이 보았음 (도쿄역 근처, 유라쿠조)
 - 커피 맛있고, 어느 동네에 가도 다 있고, 내부가 큰 경우가 많음
 - 고기 샌드위치가 있었는데... 독특함
-<img width="324" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/6adfc708-d6b2-45f9-a9dc-c48ca1dea34c">
-
+  - <img width="324" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/6adfc708-d6b2-45f9-a9dc-c48ca1dea34c">
 
 ### 스타벅스 
 - 어디든 많음. 앉아서 책. 신문 읽는 사람이 많았음
 - 큰 테이블은 다른 사람들과 같이 사용함
 - 화장실은 도어락 비밀번호가 있으니, 확인 필요함
 
-## 메뉴
+## 라멘
+- 라멘도 매우 괜찮음
+- 깔끔한 고기 국수 ? 느낌
+- 이치란 라면
+  - 도쿄 곳곳에 있으며, 매우 맛있음. 독서실 처럼 개인 자리가 있다. 그러나 줄을 한참 서야 한다. 줄서도 먹을 가치 있음
+  - https://www.tsunagujapan.com/ko/the-ultimate-guide-to-ichiran-ramen/
+
+## 다른 메뉴
 - 의외로 대표 음식은 나마 비루, 맥주로 주장하고 싶다
 - 돈까스, 메밀, 우동 등
   - 너구리 는 튀김가루, 여우 는 유부임. (키츠네)
   - 서서 먹는 패스트푸드 모밀 메뉴. 직역이 이상한 경우가 많음 
-<img width="1108" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/27f0a2ea-a0b4-476b-ab3d-21211bba9fbe">
+  - <img width="1108" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/27f0a2ea-a0b4-476b-ab3d-21211bba9fbe">
  
 - 오므라이스
 - 꼬치
@@ -36,5 +42,5 @@
 - 카레라이스
   - C&C 라는 패스트푸드 식당도 맛이 좋았다
 - 백화점 지하
-  - 다카시마야, 미츠코시 등의 백화점 지하 식품은 종류도 많고 맛있다   
+  - 다카시마야, 미츠코시 등의 백화점 지하 식품은 종류도 많고 맛있다
   
