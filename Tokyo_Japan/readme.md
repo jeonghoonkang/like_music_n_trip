@@ -24,4 +24,7 @@
 - 지상에 높은 빌딩이 많고
 - <img width="624" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/170a70be-43bc-490b-bacc-d6f2be5d7507">
 - 지하에는 상가
-- 
+### 긴자, 유라쿠조
+- 휴일 긴자는 차없는 도로 운영
+- <img width="635" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/48081857-9d30-413d-8b5e-fd3f9ba79f03">
+
