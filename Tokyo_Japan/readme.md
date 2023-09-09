@@ -18,3 +18,8 @@
 - 지하철로 주변의 여러곳을 다닐수 있어서 시내가 더 좋은것 같음
 - 특히, 긴자 주변은 잘 정리되어 있고. 생각보다 복잡하지 않다
 - 긴자 주변은 시부야, 신주쿠, 하라주쿠 등 보다.. 쾌적한것 같음 
+### 도쿄역
+- 지상에 높은 빌딩이 많고
+- <img width="624" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/170a70be-43bc-490b-bacc-d6f2be5d7507">
+- 지하에는 상가
+- 
