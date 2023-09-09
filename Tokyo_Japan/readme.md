@@ -4,7 +4,7 @@
 
 ## 쇼핑
 - [도쿄 쇼핑 정보 링크](https://githubusercontent.com/jeonghoonkang/like_music_n_trip/master/Tokyo_Japan/shopping_tokyo.md)
-- [도쿄 쇼핑 정보 링크](./Tokyo_Japan/shopping_tokyo.md)
+- [도쿄 쇼핑 정보 링크](./shopping_tokyo.md)
 
 ## 교통수단
 - 도쿄 지하철 + 광역 지하철
