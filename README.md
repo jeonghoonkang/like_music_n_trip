@@ -6,6 +6,6 @@
 #### Singapore, Singapore
 
 #### San Francisco, USA
-- [샌프란시스코 여행 정보](sf.md)
+- [샌프란시스코 여행 정보](SanFrancisco/readme.md)
 
 #### New York, USA
