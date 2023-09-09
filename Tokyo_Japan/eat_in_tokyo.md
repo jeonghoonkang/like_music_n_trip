@@ -25,6 +25,9 @@
 - 의외로 대표 음식은 나마 비루, 맥주로 주장하고 싶다
 - 돈까스, 메밀, 우동 등
   - 너구리 는 튀김가루, 여우 는 유부임. (키츠네)
+  - 서서 먹는 패스트푸드 모밀 메뉴. 직역이 이상한 경우가 많음 
+<img width="1108" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/27f0a2ea-a0b4-476b-ab3d-21211bba9fbe">
+ 
 - 오므라이스
 - 꼬치
   - 다양한 고기를 꼬치로 파는 술집이 많음
