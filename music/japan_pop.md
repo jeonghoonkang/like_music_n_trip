@@ -16,3 +16,7 @@
   - Blue Hearts
   - My Little Love
   - Zard
+
+## 구매 하고 싶은
+- 近田春夫* ＆ ハルヲフォン – カム・オン・レッツ・ゴー = Come On, Let's Go
+  - Chikada Haruo & Haruophone - Secret Highway
