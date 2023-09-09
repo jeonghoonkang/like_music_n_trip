@@ -1,4 +1,5 @@
-### Life isn't about finding yourself, it's about creating yourself
+### Life isn't about finding yourself, it's about creating yourself 
+- George Bernard Shaw
 
 #### Paris, France
 
