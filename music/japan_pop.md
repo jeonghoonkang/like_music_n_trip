@@ -17,7 +17,7 @@
   - My Little Love
   - Zard
     - [지지말아요](http://blog.naver.com/melontwnety/222128327410)
-    - [라이브](http://blog.naver.com/melontwnety/222128327410)
+    - [이젠찾지않을래](http://blog.naver.com/melontwnety/222128327410)
 
 ## 구매 하고 싶은
 - 近田春夫* ＆ ハルヲフォン – カム・オン・レッツ・ゴー = Come On, Let's Go
