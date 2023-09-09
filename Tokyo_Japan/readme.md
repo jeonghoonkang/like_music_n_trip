@@ -3,7 +3,7 @@
 - 도착하자마자 여행이 시작된다. 한국 김포공항 보다도 편한 공항 접근성은 세계 최고 수준일것 같다
 
 ## 쇼핑
-- [도쿄 쇼핑 정보]([shopping_tokyo.md](https://raw.githubusercontent.com/jeonghoonkang/like_music_n_trip/master/Tokyo_Japan/shopping_tokyo.md))
+- [도쿄 쇼핑 정보](https://raw.githubusercontent.com/jeonghoonkang/like_music_n_trip/master/Tokyo_Japan/shopping_tokyo.md))
 
 ## 교통수단
 - 도쿄 지하철 + 광역 지하철
