@@ -1,5 +1,5 @@
 ## Life isn't about finding yourself, it's about creating yourself 
-- George Bernard Shaw
+### George Bernard Shaw
 
 #### San Francisco, USA
 - [샌프란시스코 여행 정보](SanFrancisco/readme.md)
