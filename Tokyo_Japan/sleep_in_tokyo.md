@@ -5,12 +5,14 @@
 - 높은 층으로 가야 가격이 낮아지고, 경관이 좋으나, 지진 등 돌발상황에 취약할 것 같음 
 
 ## 추천을 많이하는 숙소
-- 토요코인
+- 토요코인 https://www.toyoko-inn.com/korea/ (최고 저렴)
   - 완전한 관광지에서 거리는 좀 멀리 있지만, 가격 효율은 최고라고 평가 받는 호텔 (?) 비즈니스 호텔
   - 10일 누적 숙박하면 1박은 공짜라고 들었음
-- CIC 호텔 - ICI HOTEL Tokyo Hatchobori
+    
+- CIC 호텔 - ICI HOTEL Tokyo Hatchobori (약간 저렴하면서 편리)
   - 한적한 동네이지만, JR과 시내 지하철이 크로스 하여, 어렵지 않게 어디든 갈수 있다
   - 지하철 요금이 1800원 정도이니. 아무리 하루에 많이 타도. 몇만원 숙박비 아끼는게 이익이긴 함
   - 도쿄역, 긴자와 운동삼아 10분 정도 걸으면 되기 때문에. 딱히 나쁘지도 않음
-- 솔라리아 니시츠테 긴자 (간판은 영어임 Solaria) 
+    
+- 솔라리아 니시츠테 긴자 (간판은 영어임 Solaria, 저가 아님) 
   - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=foresten&logNo=221463908259 
