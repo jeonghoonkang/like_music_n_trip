@@ -14,5 +14,5 @@
   - 지하철 요금이 1800원 정도이니. 아무리 하루에 많이 타도. 몇만원 숙박비 아끼는게 이익이긴 함
   - 도쿄역, 긴자와 운동삼아 10분 정도 걸으면 되기 때문에. 딱히 나쁘지도 않음
     
-- 솔라리아 니시츠테 긴자 (간판은 영어임 Solaria, 저가 아님) 
+- 솔라리아 니시츠테 긴자 (간판은 영어임 Solaria, 가격이 좀 있음) 
   - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=foresten&logNo=221463908259 
