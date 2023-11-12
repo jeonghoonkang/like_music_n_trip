@@ -23,7 +23,7 @@
   - http://thebuenavista.com/index1.html
   - [부에나 비스타 블로그 자료](https://m.blog.naver.com/PostView.nhn?blogId=csn324&logNo=220823435002&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
-- 블루바틀 커피
+- Blue Bottle 커피
   - 시내에 몇개가 있지만, 샌프란시스코 크로니클 앞에 있는 매장이 줄서서 기다리기에 좀 더 적합하다
   - 만약 호텔에서 멀지 않다면, 아침식사를 위해 아침 일찍 가봐도 좋고. 여유가 된다면 커피 한잔 마시면 아주 맛있는 커피 맛을 볼 수 있다
   - 위치 : https://goo.gl/maps/cC64ngJKmj42
