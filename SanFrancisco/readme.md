@@ -21,7 +21,7 @@
   - 여기서 반드시 아이리쉬 커피를 시켜서 마실것. 술 90% 임.
   - 대한항공 광고 SF편에도 나왔던 곳임. 나도 가면 매번 가는곳.
   - http://thebuenavista.com/index1.html
-  - [부에나 비스타 블로그 자료](https://m.blog.naver.com/PostView.nhn?blogId=csn324&logNo=220823435002&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+  - [부에나 비스타 블로그 자료](https://blog.naver.com/hintdot/221294290828)
 
 - Blue Bottle 커피
   - 시내에 몇개가 있지만, 샌프란시스코 크로니클 앞에 있는 매장이 줄서서 기다리기에 좀 더 적합하다
