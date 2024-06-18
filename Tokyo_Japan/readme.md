@@ -33,3 +33,12 @@
 - 휴일 긴자는 차없는 도로 운영
 - <img width="635" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/48081857-9d30-413d-8b5e-fd3f9ba79f03">
 
+### 히가시긴자
+- 긴자 바로 옆, 지하철. 미스코시 백화점 등 많이 연결되어 있는 곳
+
+## 복귀 비행기 타기 (하네다 공항)
+### 히가시긴자
+- 여기에는 직행 지하철이 있다
+- 그런데 타는 플랫폼을 찾아가야 하는데, 입구를 잘 찾아가야 한다
+- 특히 급행-직행이 있고, 갈아타야 하는 경우가 있다. 아래 그림처럼 KK 선을 타야 한다. 비행기 그림도 있다
+  ![image](https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/7ccc7db5-cf79-46b4-8211-4ebef64d2af9)
