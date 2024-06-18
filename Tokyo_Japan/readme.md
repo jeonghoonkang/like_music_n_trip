@@ -42,5 +42,4 @@
 - 그런데 타는 플랫폼을 찾아가야 하는데, 입구를 잘 찾아가야 한다
 - 특히 급행-직행이 있고, 갈아타야 하는 경우가 있다. 아래 그림처럼 KK 선을 타야 한다. 비행기 그림도 있다
   ![image](https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/7ccc7db5-cf79-46b4-8211-4ebef64d2af9)
- 
-![image width="200"](https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/7ccc7db5-cf79-46b4-8211-4ebef64d2af9)
+ <img src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/7ccc7db5-cf79-46b4-8211-4ebef64d2af9" width=50% height=50%>
