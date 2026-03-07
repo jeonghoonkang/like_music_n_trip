@@ -16,3 +16,6 @@
   - https://goo.gl/photos/fKhKm5MGGPQVQNhF7
   - and Robert Mondavi 
   - https://goo.gl/photos/2YvBTVVvNajafSvx5
+- New Zealand
+  - Cloudy Bay (Blanc, 40 USD)
+  - Oyster Bay (Blanc, 20 USD)   
