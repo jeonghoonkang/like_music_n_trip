@@ -21,4 +21,4 @@
 
 ## 구매 하고 싶은
 - 近田春夫* ＆ ハルヲフォン – カム・オン・レッツ・ゴー = Come On, Let's Go
-  - Chikada Haruo & Haruophone - Secret Highway
+  - (영문) Chikada Haruo & Haruophone - Secret Highway
