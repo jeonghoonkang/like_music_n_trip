@@ -30,6 +30,10 @@
 - <img width="624" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/170a70be-43bc-490b-bacc-d6f2be5d7507">
 - 지하에는 상가
 - <img width="507" alt="image" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/54b16af9-f480-41cd-b2d6-0c1b703d45a0">
+- 지하 너무 복잡하니 조심
+  - 특히 동/서 를 아무곳에서나 지나갈수 없고, 개찰구 돈을 내야만 지나가는 경우를 많이 만나게됨
+  - 중간 부분으로는 걸을수 없고, 외곽으로 운동장 돌듯이 돌아야 하는 상황이 많음
+  - 바쁠때, 초행으로 가는것은 거의 불가능해 보임 
 
 ### 긴자, 유라쿠조
 - 휴일 긴자는 차없는 도로 운영
