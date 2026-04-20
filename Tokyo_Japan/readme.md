@@ -44,8 +44,14 @@
 
 ## 복귀 비행기 타기 (하네다 공항)
 ### 히가시긴자
-- 여기에는 직행 지하철이 있다
-- 그런데 타는 플랫폼을 찾아가야 하는데, 입구를 잘 찾아가야 한다
+- 여기에는 직행 지하철이 있다 
+- 그런데 타는 플랫폼을 찾아가야 하는데, 입구를 잘 찾아가야 한다 (A7로 들어가면 된다) (A8 은 안된다. 공항에서 멀어지는 방향임)
+- 입구 출입 가능 시간이 있다.
+  - <img width="403" height="331" alt="image" src="https://github.com/user-attachments/assets/70c84c5d-87ee-4ab2-a349-7e3bee91c7ac" />
 - 특히 급행-직행이 있고, 갈아타야 하는 경우가 있다. 아래 그림처럼 KK 선을 타야 한다. 비행기 그림도 있다
-- 귀국 지하철 타려면, 가부키 극장 옆 입구로 들어가는게 좋다. 긴자쪽 블록 입구는 KK선으로 갈수 없어서, 계단 내려갔다가 다시 올라와야 하는 번거로움이 있음 
+- 귀국을 위한 하네다행 지하철 타려면, 가부키 극장 옆 입구로 들어가는게 좋다. 긴자쪽 블록 입구는 KK선으로 갈수 없어서, 계단 내려갔다가 다시 올라와야 하는 번거로움이 있음 
 - <img src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/7ccc7db5-cf79-46b4-8211-4ebef64d2af9" width=50% height=50%>
+- 다른 역으로 향하는 기차를 타면 안된다. 하네다 공항행만 타야함
+- <img width="1099" height="361" alt="image" src="https://github.com/user-attachments/assets/ddcdd88b-ce39-45be-857e-001cf05b99fe" />
+- 
+
