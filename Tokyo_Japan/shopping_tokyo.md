@@ -51,7 +51,7 @@
 - 아직도 CD를... 장사는 되나?
 - 스밍을 알긴 하는 건가?
 - https://m.blog.naver.com/kks0754/221551043377
-- 일본 신규 아티스트 중, 떠오르는 뮤지션 음반을 선물로 사고 싶다면, 1층에서 크게 광고하는 CD를 구매하시면 됩니다
+- 일본 신규 아티스트 중, 유명해지고 있는 뮤지션 음반을 선물로 사고 싶다면, 1층에서 크게 광고하는 CD를 구매하시면 됩니다
 
 #### 중고 레코드 가게, 디스크 유니온
 - 중고음반이 있는 가게
@@ -60,5 +60,13 @@
 - 수백만원짜리 LP도 많이 보임. 오랜된 초판도 있음 (Pink floyd, Rolling Stones, Beatles)
 - https://blog.naver.com/jhj8637/221828857818
 - 음악을 좋아하는 친구들에게 일본 음악 명반 선물은... 새로운 즐거움을 줄 수 있습니다
+
+#### 진보초 (중고서적)
+- 재밌는 문화의 거리임
+- 깨끗한 중고책이 많고, 관리가 잘 되고 있음
+- 몇개 중고 레코드 가게도 있음
+ - <img width="794" height="991" alt="image" src="https://github.com/user-attachments/assets/5b1c515e-7dd7-4103-a7fd-3ac13592d458" />
+ - <img width="836" height="1158" alt="image" src="https://github.com/user-attachments/assets/3f59a622-7108-473f-9659-9504d94e344c" />
+
 
 
