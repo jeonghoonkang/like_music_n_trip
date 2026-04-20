@@ -65,7 +65,8 @@
 - 재밌는 문화의 거리임
 - 깨끗한 중고책이 많고, 관리가 잘 되고 있음
 - 몇개 중고 레코드 가게도 있음
- - <img width="300"  alt="image" src="https://github.com/user-attachments/assets/5b1c515e-7dd7-4103-a7fd-3ac13592d458" />, <img width="300"  alt="image" src="https://github.com/user-attachments/assets/3f59a622-7108-473f-9659-9504d94e344c" /> <img width="300" alt="image" src="https://github.com/user-attachments/assets/22e2eb32-008c-4fae-81c9-1ef9b2dc8f78" />
+ - <img width="300"  alt="image" src="https://github.com/user-attachments/assets/5b1c515e-7dd7-4103-a7fd-3ac13592d458" />, <img width="300"  alt="image" src="https://github.com/user-attachments/assets/3f59a622-7108-473f-9659-9504d94e344c" />
+ - <img width="800" alt="image" src="https://github.com/user-attachments/assets/22e2eb32-008c-4fae-81c9-1ef9b2dc8f78" />
 
 
 
