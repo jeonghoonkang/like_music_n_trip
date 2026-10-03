@@ -59,22 +59,15 @@
 - 백화점 지하
   - 다카시마야, 미츠코시 등의 백화점 지하 식품은 종류도 많고 맛있다
 
-## 야키토리 - 히노마루 쇼쿠도 (Hinomaru Shokudo)
+## 도쿄역 술집 - 히노마루 쇼쿠도 (Hinomaru Shokudo)
+- 천장으로는 도쿄역을 지나가는 열차가 지나다닌다. 소리가 크게 들린다. 잘 정리되고 깨끗한 일본에서 그나마 소박한 분위기를 느낄 수 있는 곳이다.
+- 일본은 야키토리가 종류도 많고 다양한데, **달콤한 치킨껍질튀김**을 먹을 수 있는 곳이 의외로 찾기 힘들었다. 이곳에서는 그런 맛있는 야키토리를 즐길 수 있다.
+<img width="1436" height="816" alt="image" src="https://github.com/user-attachments/assets/7f666c70-da3a-46b7-909e-47635774ff12" />
+- 방문 팁
+- 껍질 야키토리 **솔드 아웃이 빨리 되니, 입장하자마자 시켜 드시길!**
 
-### 소개
-천장으로는 도쿄역을 지나가는 열차가 지나다닌다. 소리가 크게 들린다. 잘 정리되고 깨끗한 일본에서 그나마 소박한 분위기를 느낄 수 있는 곳이다.
-
-### 야키토리 (닭껍질 튀김)
-야키토리가 종류도 많고 다양한데, **달콤한 치킨껍질튀김**을 먹을 수 있는 곳이 의외로 찾기 힘들었다. 이곳에서는 그런 맛있는 야키토리를 즐길 수 있다.
-
-<img width="400" alt="yakitori" src="https://github.com/jeonghoonkang/like_music_n_trip/assets/4180063/yakitori-chicken-skin">
-
-### 방문 팁
-- **솔드 아웃이 빨리 되니, 입장하자마자 시켜 드시길!**
-- 인기 메뉴는 금방 품절되므로 빨리 주문하는 것을 추천
-
-### 위치 & 연락처
-- **주소:** 3 Chome-6-8 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan
-- **상호:** Hinomaru Shokudo (ひのまる食堂)
-- **지도:** https://maps.google.com/?q=Hinomaru+Shokudo+Tokyo
+- 위치 & 연락처
+  - **주소:** 3 Chome-6-8 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan
+  - **상호:** Hinomaru Shokudo (ひのまる食堂)
+  - **지도:** https://maps.google.com/?q=Hinomaru+Shokudo+Tokyo
   
