@@ -35,6 +35,12 @@
   - 중간 부분으로는 걸을수 없고, 외곽으로 운동장 돌듯이 돌아야 하는 상황이 많음
   - 바쁠때, 초행으로 가는것은 거의 불가능해 보임
   - <img width="800" alt="image" src="https://github.com/user-attachments/assets/39f4a8be-4a8b-4dd1-9fe9-dcec47b834d2" />
+  - 스시식당 찾아가다가. 몇번을 포기할까 하다가 우연히 찾음
+  - <img width="913" height="334" alt="image" src="https://github.com/user-attachments/assets/8d16d826-9944-40ba-943d-3dc1a99851c4" />
+  - <img width="1473" height="827" alt="image" src="https://github.com/user-attachments/assets/5da923e9-f5ce-4d55-8d3d-9d8dff8b53d9" />
+  - <img width="1473" height="827" alt="image" src="https://github.com/user-attachments/assets/b8fe658a-2a06-42ff-8025-d99159aa7ba6" />
+
+
 - [도쿄역 지하도에서 살아서, 원하는 식당 가기 - 현지인 노하우](tokyo_station_lost_case.md)
 
 ### 긴자, 유라쿠조
