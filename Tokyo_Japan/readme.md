@@ -36,9 +36,9 @@
   - 바쁠때, 초행으로 가는것은 거의 불가능해 보임
   - <img width="800" alt="image" src="https://github.com/user-attachments/assets/39f4a8be-4a8b-4dd1-9fe9-dcec47b834d2" />
   - 스시식당 찾아가다가. 몇번을 포기할까 하다가 우연히 찾음 (https://www.tripadvisor.com/Restaurant_Review-g14129528-d10716610-Reviews-Tsukiji_Sushiko_Nagomi_Gransta_Marunouchi-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefe.html)
-  - <img width="300" height="334" alt="image" src="https://github.com/user-attachments/assets/8d16d826-9944-40ba-943d-3dc1a99851c4" />
-  - <img width="300" height="827" alt="image" src="https://github.com/user-attachments/assets/5da923e9-f5ce-4d55-8d3d-9d8dff8b53d9" />
-  - <img width="300" height="804" alt="image" src="https://github.com/user-attachments/assets/7e45dc39-31ba-47a4-9807-e06b511990ff" />
+  - <img width="300" alt="image" src="https://github.com/user-attachments/assets/8d16d826-9944-40ba-943d-3dc1a99851c4" />
+  - <img width="300" alt="image" src="https://github.com/user-attachments/assets/5da923e9-f5ce-4d55-8d3d-9d8dff8b53d9" />
+  - <img width="300"  alt="image" src="https://github.com/user-attachments/assets/7e45dc39-31ba-47a4-9807-e06b511990ff" />
 
 
 - [도쿄역 지하도에서 살아서, 원하는 식당 가기 - 현지인 노하우](tokyo_station_lost_case.md)
